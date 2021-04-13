@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<Javascript Calculator>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
